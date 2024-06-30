@@ -4,4 +4,5 @@
 <b>Description: </b> Develop a personal portfolio website showcasing your skills, projects, and experiences 
 as a web development intern. The website should serve as a platform to highlight your expertise, 
 demonstrate your projects, and provide information about your journey as a web developer. <br>
-<b> Tools and languages used: </b>
+<b> Tools and languages used: </b> HTML, CSS, JavaScript, MySQL. <br>
+Live website link: https://riaportfolioweb.000webhostapp.com/
