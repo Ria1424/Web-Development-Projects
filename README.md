@@ -5,4 +5,4 @@
 as a web development intern. The website should serve as a platform to highlight your expertise, 
 demonstrate your projects, and provide information about your journey as a web developer. <br>
 <b> Tools and languages used: </b> HTML, CSS, JavaScript, MySQL. <br>
-<b>Live website link: </b> https://riaportfolioweb.000webhostapp.com/
+<b>Live website link (live till july 2025) : </b> https://riaportfolioweb.000webhostapp.com/
