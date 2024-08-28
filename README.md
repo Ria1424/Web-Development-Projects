@@ -10,4 +10,4 @@ demonstrate your projects, and provide information about your journey as a web d
 <h3> Task 2: Expense Tracker Website </h3> 
 <b>Description: </b>
 <b> Tools and languages used: </b> HTML, CSS, JavaScript, MySQL. <br>
-<b>Live website link: https://airtable.com/appwMfM6NVLYaqJnE/shrEVdR1VI8G3VmYe <br>
+
